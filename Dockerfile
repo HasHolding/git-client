@@ -1,6 +1,6 @@
 FROM alpine:3.6
 ENV container docker
-MAINTAINER "Levent SAGIROPGLU" <lsagiroglu@gmail.com>
+MAINTAINER "Levent SAGIROGLU" <LSagiroglu@gmail.com>
 
 RUN apk update && \
     apk upgrade && \
