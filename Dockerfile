@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:latest
 ENV container docker
 MAINTAINER "Levent SAGIROGLU" <LSagiroglu@gmail.com>
 
